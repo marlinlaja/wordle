@@ -4,16 +4,16 @@
 
 /* Root variables */
 :root {
-    --background: #0f1b2d;
+    --background: #221e50;
     --white: #fff;
-    --grey-dark: #2c2c35;
-    --grey-light: #3c3c48;
-    --green-dark: #4e7e48;
-    --green-light: #6baa64;
-    --yellow-dark: #a4800f;
-    --yellow-light: #d7a814;
-    --key-light: #73747b;
-    --key-dark: #454651;
+    --grey-dark: #332e70;
+    --grey-light: #4b4590;
+    --green-dark: #3a9650;
+    --green-light: #58c26d;
+    --yellow-dark: #c49a1e;
+    --yellow-light: #f6c945;
+    --key-light: #7f79c4;
+    --key-dark: #524c9a;
 }
 
 /* Global styles */
