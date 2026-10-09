@@ -6,3 +6,4 @@ services:
       - "8000:8000"
     environment:
       - SECRET_KEY=${SECRET_KEY}
+      - SCRIPT_NAME=${SCRIPT_NAME:-}
