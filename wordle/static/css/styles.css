@@ -4,20 +4,20 @@
 
 /* Root variables */
 :root {
-    --background: #1b1d22;
+    --background: #0a1830;
     --white: #ffffff;
-    --grey-dark: #292c33;
-    --grey-light: #40444d;
-    --green-dark: #3c8346;
-    --green-light: #55a35f;
-    --yellow-dark: #a07c1a;
-    --yellow-light: #d1a63a;
-    --key-light: #5a6f94;
-    --key-dark: #42547a;
-    --grey-shadow: #292c33;
-    --text: #e6e8ec;
-    --accent: #cc6a58;
-    --accent-dark: #9f4d3f;
+    --grey-dark: #13294a;
+    --grey-light: #27446f;
+    --green-dark: #559a3a;
+    --green-light: #7bc65a;
+    --yellow-dark: #b8921a;
+    --yellow-light: #f0c93c;
+    --key-light: #3f7f9e;
+    --key-dark: #2c6079;
+    --grey-shadow: #13294a;
+    --text: #ffffff;
+    --accent: #4aaebb;
+    --accent-dark: #33808b;
 }
 
 /* Global styles */
