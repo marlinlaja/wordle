@@ -1,10 +1,11 @@
 # marlin.laja@gmx.de - 03/2025
+import os
 from flask import Flask, request, jsonify, render_template, abort, session
 from functions import *
 
 
 app = Flask(__name__)
-app.secret_key = 'THIS_IS_A_VERY_SECRET_KEY'
+app.secret_key = os.environ.get('SECRET_KEY', 'THIS_IS_A_VERY_SECRET_KEY')
 
 
 # ======================================================================
